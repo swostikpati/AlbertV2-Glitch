@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21713fe2.css",
+    "main.js": "/static/js/main.2d9e81be.js",
+    "static/media/January.jpg": "/static/media/January.74e871e49bf5d946472d.jpg",
+    "static/media/Spring.jpg": "/static/media/Spring.6b6fce894176f8fe18ba.jpg",
+    "static/media/Summer.jpg": "/static/media/Summer.491a40e747e265610151.jpg",
+    "static/media/a1.png": "/static/media/a1.be4e2e3d248177520e16.png",
+    "static/media/a2.png": "/static/media/a2.6f1b14181fc9681efe61.png",
+    "static/media/a3.png": "/static/media/a3.c9bf5e54ae5843fde2f6.png",
+    "static/media/Fall.jpg": "/static/media/Fall.da8b828b90a8fa45ae1d.jpg",
+    "static/media/nyu_logo.png": "/static/media/nyu_logo.00a89abc42ab49a6993b.png",
+    "static/media/random_pic.png": "/static/media/random_pic.f5a74b08475426762647.png",
+    "static/media/user_icon.png": "/static/media/user_icon.bb679f19b0c5e3834782.png",
+    "index.html": "/index.html",
+    "main.21713fe2.css.map": "/static/css/main.21713fe2.css.map",
+    "main.2d9e81be.js.map": "/static/js/main.2d9e81be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21713fe2.css",
+    "static/js/main.2d9e81be.js"
+  ]
+}
